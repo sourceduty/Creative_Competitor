@@ -18,7 +18,7 @@ In addition to its informative nature, Creative Competitor is user-focused, ensu
 | Porada International Design Award 2023 | TBA for 2024     | Open to designers worldwide     | Furniture design competition by PORADA and POLI.design.                     | [Porada Design Award](https://www.polidesign.net/en/innovation-paths/contests-and-events/competitions/) |
 
 #
-###
+### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 
