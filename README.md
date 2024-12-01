@@ -10,12 +10,12 @@ In addition to its informative nature, Creative Competitor is user-focused, ensu
 #
 | Competition Name                     | Deadline          | Eligibility                     | Description                                                                 | Official Link                                             |
 |--------------------------------------|-------------------|---------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
-| Car Render Challenge 2024           | December 4, 2024  | Open to all 3D artists worldwide | Create a 3D model of a car in an evocative environment and produce a render. | [Car Render Challenge 2024](https://3dmodels.org/car-challenge-2024/) |
-| International Design Excellence Awards (IDEA) 2024 | March 11, 2024  | Open to designs and designers worldwide | Recognizes excellence in industrial design across various categories.       | [IDEA 2024](https://www.idsa.org/awards-recognitions/idea/) |
-| James Dyson Award 2024              | July 17, 2024     | Current/recent design engineering students | Celebrates and inspires next-gen design engineers.                          | [James Dyson Award](https://www.jamesdysonaward.org/)    |
-| 3D Pioneers Challenge 2024          | June 16, 2024     | Open to designers worldwide     | Focused on additive manufacturing and advanced technologies.                | [3D Pioneers Challenge](https://3dwithus.com/3d-printing-competitions) |
-| RenderHub Winter Fantasy III Contest | December 31, 2024 | Open to all 3D artists          | Winter fantasy-themed 3D render contest.                                    | [RenderHub Contests](https://www.renderhub.com/3d-contests/) |
-| Porada International Design Award 2023 | TBA for 2024     | Open to designers worldwide     | Furniture design competition by PORADA and POLI.design.                     | [Porada Design Award](https://www.polidesign.net/en/innovation-paths/contests-and-events/competitions/) |
+| Car Render Challenge 2025           | December 4, 2025  | Open to all 3D artists worldwide | Create a 3D model of a car in an evocative environment and produce a render. | [Car Render Challenge 2025](https://3dmodels.org/car-challenge-2024/) |
+| International Design Excellence Awards (IDEA) 2025 | March 11, 2025  | Open to designs and designers worldwide | Recognizes excellence in industrial design across various categories.       | [IDEA 2025](https://www.idsa.org/awards-recognitions/idea/) |
+| James Dyson Award 2025              | July 17, 2025     | Current/recent design engineering students | Celebrates and inspires next-gen design engineers.                          | [James Dyson Award](https://www.jamesdysonaward.org/)    |
+| 3D Pioneers Challenge 2025          | June 16, 2025     | Open to designers worldwide     | Focused on additive manufacturing and advanced technologies.                | [3D Pioneers Challenge](https://3dwithus.com/3d-printing-competitions) |
+| RenderHub Winter Fantasy IV Contest | December 31, 2025 | Open to all 3D artists          | Winter fantasy-themed 3D render contest.                                    | [RenderHub Contests](https://www.renderhub.com/3d-contests/) |
+| Porada International Design Award 2025 | TBA for 2025     | Open to designers worldwide     | Furniture design competition by PORADA and POLI.design.                     | [Porada Design Award](https://www.polidesign.net/en/innovation-paths/contests-and-events/competitions/) |
 
 #
 ### Related Links
